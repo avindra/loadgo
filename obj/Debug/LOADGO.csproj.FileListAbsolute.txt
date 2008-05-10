@@ -1,0 +1,8 @@
+C:\Users\avin\Documents\Visual Studio 2008\Projects\LOADGO\LOADGO\bin\Debug\LOADGO.exe
+C:\Users\avin\Documents\Visual Studio 2008\Projects\LOADGO\LOADGO\bin\Debug\LOADGO.pdb
+C:\Users\avin\Documents\Visual Studio 2008\Projects\LOADGO\LOADGO\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\avin\Documents\Visual Studio 2008\Projects\LOADGO\LOADGO\obj\Debug\LOADGO.Form1.resources
+C:\Users\avin\Documents\Visual Studio 2008\Projects\LOADGO\LOADGO\obj\Debug\LOADGO.Properties.Resources.resources
+C:\Users\avin\Documents\Visual Studio 2008\Projects\LOADGO\LOADGO\obj\Debug\LOADGO.csproj.GenerateResource.Cache
+C:\Users\avin\Documents\Visual Studio 2008\Projects\LOADGO\LOADGO\obj\Debug\LOADGO.exe
+C:\Users\avin\Documents\Visual Studio 2008\Projects\LOADGO\LOADGO\obj\Debug\LOADGO.pdb
